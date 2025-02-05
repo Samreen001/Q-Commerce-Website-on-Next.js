@@ -17,7 +17,7 @@ async function getProducts(): Promise<Product[]> {
   return [
     { id: '1', name: 'Chocolate Delight', description: 'Rich chocolate ice cream with chocolate chips and a fudge swirl.', price: 4.99, image: '/images/home.jpg', type: 'Cake' },
     { id: '2', name: 'Strawberry Dream', description: 'Fresh strawberry cake made with real strawberries chunks.', price: 4.99, image: '/images/st-cake.jpg', type: 'Cake' },
-    { id: '3', name: 'Vagan-Vanilla', description: 'Smooth vanilla ice cream with a tropical twist of coconut.', price: 4.99, image: '/images/v.vanila.jpg', type: 'Cake' },
+    { id: '3', name: 'Vagan-Vanilla', description: 'Smooth vanilla ice cream with a tropical twist of coconut.', price: 4.99, image: '/images/coco-vani.jpg', type: 'Cake' },
     { id: '4', name: 'Pista Ice Cream', description: 'Creamy pistachio ice cream made with roasted pistachios.', price: 4.99, image: '/images/pista.jpg', type: 'ice cream' },
     { id: '5', name: 'Vanilla Bean', description: 'Classic vanilla ice cream made with real vanilla beans.', price: 4.99, image: '/images/vanila.png', type: 'ice cream' },
     { id: '6', name: 'TootiFruity Ice-cream', description: 'A colorful mix of fruit-flavored ice-cream with chunks of real fruit.', price: 4.99, image: '/images/tuti-fruiti.webp', type: 'ice cream' },

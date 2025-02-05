@@ -6,7 +6,7 @@ import ProductCard from './components/ProductCard'
 const featuredProducts = [
   { id: '1', name: 'Chocolate Delight', description: 'Rich chocolate ice cream', price: 4.99, image: '/images/choc-cake1.webp' },
   { id: '2', name: 'Strawberry Dream', description: 'Fresh strawberry ice cream', price: 4.99, image: '/images/str-cake1.jpg' },
-  { id: '3', name: 'Coconut Vanilla', description: 'Fresh Coconut Vanilla', price: 4.99, image: '/images/coco-vanila.jpg' },
+  { id: '3', name: 'Coconut Vanilla', description: 'Coconut Vanilla delight, a perfect blend of tropical coconut and creamy vanilla.', price: 4.99, image: '/images/coco-vani.jpg' },
   { id: '4', name: 'Pista Ice Cream', description: 'Pista ice cream', price: 4.99, image: '/images/pista.jpg' },
   { id: '5', name: 'Vanilla Bean', description: 'Classic vanilla ice cream', price: 4.99, image: '/images/vanila.png' },
   { id: '6', name: 'TootiFruity', description: 'Tooty Fruity ice cream', price: 4.99, image: '/images/tot-fruit.jpg' },
